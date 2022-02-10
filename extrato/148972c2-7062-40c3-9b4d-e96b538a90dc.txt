@@ -1,0 +1,26 @@
+
+EXTRATO - ID da Conta Bancária: 148972c2-7062-40c3-9b4d-e96b538a90dc
+
+Operação Bancária
+Data e Hora         Operador       Banco       Agência  Conta      Tipo       Valor        
+2022-01-03T15:20:27 | Jade         | Santander | 2254 | 37025102-7 | DEPOSITO | 360.0
+2022-01-04T11:24:42 | Ângelo       | Santander | 2254 | 37025102-7 | DEPOSITO | 20.0
+2022-01-07T11:36:58 | Francisco    | Santander | 2254 | 37025102-7 | SAQUE    | 520.0
+2022-01-07T13:36:58 | Maitê        | Santander | 2254 | 37025102-7 | SAQUE    | 40.0
+2022-01-07T14:36:58 | Bryan        | Santander | 2254 | 37025102-7 | DEPOSITO | 160.0
+2022-01-07T15:55:53 | Bryan        | Santander | 2254 | 37025102-7 | DEPOSITO | 100.0
+2022-01-08T11:18:40 | Alexandre    | Santander | 2254 | 37025102-7 | DEPOSITO | 80.0
+2022-01-08T15:18:40 | Larissa      | Santander | 2254 | 37025102-7 | SAQUE    | 40.0
+2022-01-17T12:30:28 | David        | Santander | 2254 | 37025102-7 | DEPOSITO | 60.0
+2022-01-17T13:30:28 | Frederico    | Santander | 2254 | 37025102-7 | DEPOSITO | 80.0
+2022-01-17T14:30:28 | Miguel       | Santander | 2254 | 37025102-7 | DEPOSITO | 60.0
+2022-01-17T15:30:28 | Antônio      | Santander | 2254 | 37025102-7 | SAQUE    | 440.0
+2022-01-21T13:42:37 | Ezequiel     | Santander | 2254 | 37025102-7 | DEPOSITO | 60.0
+2022-01-21T15:37:07 | Flôr         | Santander | 2254 | 37025102-7 | SAQUE    | 540.0
+2022-01-23T11:32:28 | Matheus      | Santander | 2254 | 37025102-7 | SAQUE    | 200.0
+2022-01-25T13:22:43 | Eduarda      | Santander | 2254 | 37025102-7 | DEPOSITO | 380.0
+2022-01-25T15:22:43 | Felipe       | Santander | 2254 | 37025102-7 | DEPOSITO | 540.0
+2022-01-28T12:34:24 | Clarissa     | Santander | 2254 | 37025102-7 | DEPOSITO | 180.0
+2022-01-29T13:56:11 | Juliano      | Santander | 2254 | 37025102-7 | SAQUE    | 220.0
+
+Saldo:    3940.0

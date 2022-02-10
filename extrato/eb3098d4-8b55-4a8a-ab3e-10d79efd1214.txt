@@ -1,0 +1,26 @@
+
+EXTRATO - ID da Conta Bancária: eb3098d4-8b55-4a8a-ab3e-10d79efd1214
+
+Operação Bancária
+Data e Hora         Operador       Banco       Agência  Conta      Tipo       Valor        
+2022-01-03T12:20:27 | Yuri         | Santander | 4009 | 43811754-6 | DEPOSITO | 80.0
+2022-01-04T12:24:42 | Murilo       | Santander | 4009 | 43811754-6 | DEPOSITO | 40.0
+2022-01-04T15:24:42 | Bryan        | Santander | 4009 | 43811754-6 | DEPOSITO | 420.0
+2022-01-07T13:55:53 | Francisco    | Santander | 4009 | 43811754-6 | SAQUE    | 100.0
+2022-01-08T13:18:40 | Victor       | Santander | 4009 | 43811754-6 | DEPOSITO | 40.0
+2022-01-17T14:30:28 | Larissa      | Santander | 4009 | 43811754-6 | DEPOSITO | 300.0
+2022-01-20T12:43:47 | Débora       | Santander | 4009 | 43811754-6 | DEPOSITO | 20.0
+2022-01-20T13:43:47 | Ingrid       | Santander | 4009 | 43811754-6 | SAQUE    | 600.0
+2022-01-20T14:43:47 | Bryan        | Santander | 4009 | 43811754-6 | DEPOSITO | 100.0
+2022-01-20T15:12:24 | Ezequiel     | Santander | 4009 | 43811754-6 | SAQUE    | 360.0
+2022-01-21T11:37:07 | Milene       | Santander | 4009 | 43811754-6 | DEPOSITO | 380.0
+2022-01-21T14:42:37 | Lorenzo      | Santander | 4009 | 43811754-6 | DEPOSITO | 440.0
+2022-01-25T11:22:43 | Catarina     | Santander | 4009 | 43811754-6 | SAQUE    | 220.0
+2022-01-25T13:22:43 | Francisco    | Santander | 4009 | 43811754-6 | DEPOSITO | 280.0
+2022-01-26T14:53:20 | Murilo       | Santander | 4009 | 43811754-6 | SAQUE    | 60.0
+2022-01-28T11:34:24 | Brenda       | Santander | 4009 | 43811754-6 | DEPOSITO | 560.0
+2022-01-28T14:34:24 | Theo         | Santander | 4009 | 43811754-6 | SAQUE    | 60.0
+2022-01-29T11:56:11 | David        | Santander | 4009 | 43811754-6 | SAQUE    | 180.0
+2022-01-29T13:56:11 | Antônio      | Santander | 4009 | 43811754-6 | SAQUE    | 240.0
+
+Saldo:    5080.0

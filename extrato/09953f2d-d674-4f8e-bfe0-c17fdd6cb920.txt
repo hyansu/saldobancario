@@ -1,0 +1,23 @@
+
+EXTRATO - ID da Conta Bancária: 09953f2d-d674-4f8e-bfe0-c17fdd6cb920
+
+Operação Bancária
+Data e Hora         Operador       Banco       Agência  Conta      Tipo       Valor        
+2022-01-04T11:24:42 | Felipe       | Santander | 3121 | 35306174-8 | DEPOSITO | 100.0
+2022-01-04T13:24:42 | Bryan        | Santander | 3121 | 35306174-8 | SAQUE    | 80.0
+2022-01-07T15:36:58 | Eduarda      | Santander | 3121 | 35306174-8 | SAQUE    | 20.0
+2022-01-07T15:55:53 | Larissa      | Santander | 3121 | 35306174-8 | DEPOSITO | 260.0
+2022-01-08T13:18:40 | Miguel       | Santander | 3121 | 35306174-8 | DEPOSITO | 360.0
+2022-01-17T11:30:28 | Larissa      | Santander | 3121 | 35306174-8 | DEPOSITO | 100.0
+2022-01-17T14:30:28 | João         | Santander | 3121 | 35306174-8 | SAQUE    | 280.0
+2022-01-20T15:12:24 | Lucas        | Santander | 3121 | 35306174-8 | SAQUE    | 220.0
+2022-01-21T14:37:07 | Clarissa     | Santander | 3121 | 35306174-8 | DEPOSITO | 20.0
+2022-01-23T11:32:28 | Helena       | Santander | 3121 | 35306174-8 | DEPOSITO | 160.0
+2022-01-23T12:32:28 | Catarina     | Santander | 3121 | 35306174-8 | DEPOSITO | 80.0
+2022-01-25T12:22:43 | Ingrid       | Santander | 3121 | 35306174-8 | DEPOSITO | 100.0
+2022-01-25T14:22:43 | Giovanna     | Santander | 3121 | 35306174-8 | DEPOSITO | 160.0
+2022-01-26T12:53:20 | Felipe       | Santander | 3121 | 35306174-8 | DEPOSITO | 60.0
+2022-01-26T15:53:20 | Luis         | Santander | 3121 | 35306174-8 | DEPOSITO | 520.0
+2022-01-28T13:34:24 | Ezequiel     | Santander | 3121 | 35306174-8 | SAQUE    | 160.0
+
+Saldo:    3680.0
